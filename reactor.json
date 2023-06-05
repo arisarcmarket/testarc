@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "arisarcmarket",
+    "repo": "testarc",
+    "branch": "master"
+  },
+  "name": "testARC",
+  "description": "",
+  "version": "1.0.0",
+  "projectId": 1006
+}
